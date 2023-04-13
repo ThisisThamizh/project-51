@@ -45,8 +45,8 @@
 .btn button:active{
     background-color: rgb(33, 32, 32) transparent;
     transform: scale(1.1);
-    box-shadow: 0 0 100px 100px rgb(89, 255, 0);
-    transition: 1s;
+    box-shadow: 0 0 100px 1000px rgb(89, 255, 0);
+    transition: 0.5s;
 }
 video{
     width: 100%;
